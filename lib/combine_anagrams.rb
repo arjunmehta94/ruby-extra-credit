@@ -3,4 +3,5 @@
 
 def combine_anagrams(words)
 	# YOUR CODE HERE
+	# restrict your code to a single function
 end
