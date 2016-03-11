@@ -12,7 +12,7 @@ Getting Started
 --------
 
 1. Clone this repo to your Cloud9 instance (or your own laptop).
-2. Solve the programming problem described in next section on your cloud9 instance. We have provided a spec script to check your correctness locally.
+2. Solve the programming problem described in next section on your cloud9 instance. We have provided a spec script to check your correctness locally (simply `cd` into the repo and run `rspec spec/combine_anagrams_spec.rb`).
 3. Once you have a *correct working solution*, go to <a href="https://codestyle.herokuapp.com" target="_blank">codestyle.herokuapp.com</a>.
 4. You will be asked for an email (you can use any email -- it doesn't have to be your Berkeley one).
 5. Once you submit your code (which should already pass the local correctness tests) to Autostyle, it will analyze your code and give you a **style score** and some **style feedback** (usually takes about 10 seconds but can take up to a minute). 
