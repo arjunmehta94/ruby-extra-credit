@@ -3,7 +3,7 @@ Extra Credit Ruby Exercise
 
 Hey everyone, welcome to the extra credit ruby exercise! 
 
-In this exercise, you will solve a simple programming problem with the help of AutoStyle, a system that will provide automatic real-time style feedback for your code. The goal of this exercise is to help you better understand programming style concepts and improve your understanding and ability to write stylistically good code.  
+In this exercise, you will solve a simple programming problem with the help of Autostyle, a system that will provide automatic real-time style feedback for your code. The goal of this exercise is to help you better understand programming style concepts and improve your understanding and ability to write stylistically good code.  
 
 Getting Started
 --------
@@ -26,6 +26,7 @@ There is no partial credit. You can earn full extra-credit by either:
   * achieving a **style score >= 90**.
   * **OR** spending **at least 45 minutes** using the Autostyle system to improve your code's style.
 
+Once you have met the minimum criteria for extra-credit, Autostyle will automatically display a form. **Fill out this form to receive extra-credit**. You can continue to improve your style using Autostyle even after submitting this form.
 
 Exercise: Combine Anagrams
 --------
