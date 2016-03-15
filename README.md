@@ -1,7 +1,7 @@
 Extra Credit Ruby Exercise
 =================
 
-#### Points: 1% of your final grade
+#### Points: 1/4th of a homework (0.4% of your final grade)
 #### Due: Saturday Mar 19, 2016, 11:59 PM PST
 
 Hey everyone, welcome to the extra-credit ruby exercise! 
