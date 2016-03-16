@@ -23,7 +23,7 @@ Getting Started
 Grading
 -------
 
-This is an extra-credit assignment **worth 1% of your final grade** in the class. 
+This is an extra-credit assignment **worth 1/4th of a homework** (0.4% of your final grade) in the class. 
 
 There is no partial credit. You can earn full extra-credit by either:
   * achieving a **style score >= 90**.
