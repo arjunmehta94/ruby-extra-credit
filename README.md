@@ -1,10 +1,10 @@
 Extra Credit Ruby Exercise
 =================
 
-#### Points: 1% of your final grade
-#### Due: Saturday Mar 19, 2016, 11:59 PM
+#### Points: 1/4th of a homework (0.4% of your final grade)
+#### Due: Saturday Mar 19, 2016, 11:59 PM PST
 
-Hey everyone, welcome to the extra credit ruby exercise! 
+Hey everyone, welcome to the extra-credit ruby exercise! 
 
 In this exercise, you will solve a simple programming problem with the help of Autostyle, a system that will provide automatic real-time style feedback for your code. The goal of this exercise is to help you better understand programming style concepts and improve your understanding and ability to write stylistically good code.  
 
@@ -18,12 +18,12 @@ Getting Started
 5. Once you submit your code (which should already pass the local correctness tests) to Autostyle, it will analyze your code and give you a **style score** and some **style feedback** (usually takes about 10 seconds but can take up to a minute). 
 6. Use the feedback to improve your code and resubmit. Repeat this step as many times as you need. Try to get to the best possible style score (93.2 for this assignment). 
 7. **NOTE**: You don't need to achieve the best style score to get full extra-credit -- see the Grading section below.
-8. **NOTE**: the system is still under development so you may face errors/bugs. Please email ```auto.style@berkeley.edu``` if you face any problems. 
+8. **NOTE**: the system is _still under development_ so you may face errors/bugs. Please email ```auto.style@berkeley.edu``` if you face any problems. 
 
 Grading
 -------
 
-This is an extra-credit assignment **worth 1% of your total grade** in the class. 
+This is an extra-credit assignment **worth 1/4th of a homework** (0.4% of your final grade) in the class. 
 
 There is no partial credit. You can earn full extra-credit by either:
   * achieving a **style score >= 90**.
