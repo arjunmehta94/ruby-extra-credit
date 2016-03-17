@@ -29,7 +29,7 @@ There is no partial credit. You can earn full extra-credit by either:
   * achieving a **style score >= 90**.
   * **OR** spending **at least 45 minutes** using the Autostyle system to improve your code's style.
 
-Once you have met the minimum criteria for extra-credit, Autostyle will automatically display a form. **Fill out that form to receive extra-credit**. You can continue to improve your style using Autostyle even after submitting this form.
+Once you have met the minimum criteria for extra-credit, Autostyle will automatically display a form. **Fill out that form to receive extra-credit**. Fill it out **only once**. You can continue to improve your style using Autostyle even after submitting the form.
 
 Exercise: Combine Anagrams
 --------
