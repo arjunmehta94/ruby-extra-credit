@@ -15,5 +15,6 @@ describe 'combine anagrams' do
     [%w(cars scar), %w(four), %w(for), %w(creams scream)].each do |group|
         expect(@anagrams).to include(group)
     end
+    expect(@anagrams.length).to eq(4)
   end
 end
