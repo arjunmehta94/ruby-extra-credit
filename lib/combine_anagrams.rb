@@ -4,4 +4,5 @@
 def combine_anagrams(words)
 	# YOUR CODE HERE
 	# restrict your code to a single function
+	return words.group_by { |word| word.downcase.chars.sort.join }.values
 end
